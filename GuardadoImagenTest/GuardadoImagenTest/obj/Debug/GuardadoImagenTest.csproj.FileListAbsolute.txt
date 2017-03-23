@@ -1,0 +1,11 @@
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\bin\Debug\GuardadoImagenTest.exe.config
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\bin\Debug\GuardadoImagenTest.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\bin\Debug\GuardadoImagenTest.pdb
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\bin\Debug\MySql.Data.dll
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\bin\Debug\MySql.Data.xml
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.csprojResolveAssemblyReference.cache
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.Form1.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.Properties.Resources.resources
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.csproj.GenerateResource.Cache
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.exe
+c:\users\jeobal\documents\visual studio 2015\Projects\GuardadoImagenTest\GuardadoImagenTest\obj\Debug\GuardadoImagenTest.pdb
